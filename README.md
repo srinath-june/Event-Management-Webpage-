@@ -54,6 +54,6 @@ If you find any bugs, have suggestions for improvements, or want to add more fea
 
 ## About the Author
 
-This tutorial series is created and presented by [Agnel John](https://www.youtube.com/@ErrorMakesClever), a passionate web developer with a goal to share knowledge and help others learn HTML effectively.
+This tutorial series is created and presented by Srinath S a passionate web developer with a goal to share knowledge and help others learn HTML effectively.
 
 Enjoy the journey of learning HTML and building exciting projects with us! Happy coding! 🚀🎉
